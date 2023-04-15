@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "MyFont";
+    src: url(../font/IRANSansWeb.ttf);
+
+}
+
+* {
+    text-decoration: none;
+    list-style: none;
+    font-family: 'MyFont';
+    
+}
+
+.MyFont {
+    font-family: 'MyFont';
+ }
+ 
