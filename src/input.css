@@ -17,4 +17,7 @@
 .MyFont {
     font-family: 'MyFont';
  }
- 
+.a:hover svg{
+    rotate: 180deg;
+}  
+  
